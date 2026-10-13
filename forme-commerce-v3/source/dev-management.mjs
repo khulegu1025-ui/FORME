@@ -1,0 +1,1 @@
+process.env.FORME_APP='management';const {createServer}=await import('vite');const server=await createServer({configFile:'portable/vite.config.mjs',server:{host:'127.0.0.1'}});await server.listen();server.printUrls();

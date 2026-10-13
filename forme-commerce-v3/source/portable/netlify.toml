@@ -1,0 +1,4 @@
+[build]
+  publish = "web"
+
+# The web folder is already built. No build command or Node runtime required.
