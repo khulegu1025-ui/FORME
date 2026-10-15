@@ -2,7 +2,7 @@
 // NEVER put a Supabase service_role / secret key or an admin password here.
 window.COMMERCE_CONFIG = {
   provider: "supabase",
-  supabaseUrl: "https://eeyoqylnxcstcehsxkve.supabase.co/rest/v1/",
+  supabaseUrl: "https://eeyoqylnxcstcehsxkve.supabase.co",
   supabasePublishableKey: "sb_publishable_yuQ-V9Lih514sYhhQ3AuTg_Qf5KURVe",
   adminEmailDomain: "admin.example.com",
   app: "store",
