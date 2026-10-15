@@ -9,8 +9,8 @@ window.COMMERCE_CONFIG = {
   storeUrl: "https://YOUR-SHOP.netlify.app",
   managementUrl: "https://YOUR-MANAGEMENT.netlify.app",
   apiBase: "/.netlify/functions"
-  supabaseUrl: "YOUR_SUPABASE_PROJECT_URL",
-  supabasePublishableKey: "YOUR_PUBLISHABLE_KEY",
+  supabaseUrl: "https://eeyoqylnxcstcehsxkve.supabase.co/rest/v1/",
+  supabasePublishableKey: "sb_publishable_yuQ-V9Lih514sYhhQ3AuTg_Qf5KURVe",
   storeUrl: "https://lustrous-arithmetic-d47f15.netlify.app",
   managementUrl: "https://bespoke-zabaione-9a20f8.netlify.app",
 };
