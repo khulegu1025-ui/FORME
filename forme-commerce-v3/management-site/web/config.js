@@ -7,5 +7,5 @@ window.COMMERCE_CONFIG = {
   app: "management",
   storeUrl: "https://YOUR-SHOP.netlify.app",
   managementUrl: "https://YOUR-MANAGEMENT.netlify.app",
-  apiBase: "https://YOUR-SHOP.netlify.app/.netlify/functions"
+  apiBase: "https://lustrous-arithmetic-d47f15.netlify.app/.netlify/functions"
 };
